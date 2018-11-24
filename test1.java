@@ -1,7 +1,12 @@
 public class Test1{
 
   public static void main(String [] args){
-    System.out.println("Hello world!  -- Github");
+     sayHello();
   }
+  
+  public void sayHello(){
+    
+     System.out.println("Hello world!  -- Github2");
+  }  
 
 }
