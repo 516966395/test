@@ -2,5 +2,7 @@
 
 terminal 2
 
+terminal 1 -> 
+
 wochi
 jhkh
