@@ -4,7 +4,7 @@ terminal 2
 
 terminal 1 -> 
 
-diff
+diff2
 
 wochi
 jhkh
